@@ -1,0 +1,18 @@
+html{
+    background-color: darkolivegreen;
+    color: beige;
+}
+div{
+    box-sizing: border-box;
+}
+#navbar{
+    height: 50px;
+}
+#flex{
+    display:flex;
+    height: calc(100vh - 50px);
+}
+.container{
+    border-style: dashed;
+    border-color: blueviolet;
+}
