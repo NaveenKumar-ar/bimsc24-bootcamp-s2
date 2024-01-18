@@ -13,6 +13,12 @@ div{
     display:flex;
     height: calc(100vh - 50px);
 }
+#sidebar{
+    width: 30%;
+}
+#mainbar{
+    width: 70%;
+}
 .container{
     border-style: dashed;
     border-color: blueviolet;
